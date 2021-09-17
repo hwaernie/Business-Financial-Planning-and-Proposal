@@ -1,4 +1,5 @@
-# Business-Management-Financial-Plan
+# Business Proposal and Financial Budgeting
+
 
 A financial plan and business proposal was carefully curated. This planning includes detailed planning in launching a charitable mobile application.
 
